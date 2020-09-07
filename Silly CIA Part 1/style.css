@@ -1,0 +1,21 @@
+h1, h2 {
+    text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: darkgreen;
+}
+p, ul {
+    line-height: 25px;
+}
+a {
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline;
+}
+.lastword {
+    text-transform: uppercase;
+}
+img {
+    float: left; padding-right: 15px;
+}

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+.box1 {
+    display: grid; grid-template-rows: auto;
+    background-color: orange; border: 20px; padding: 20px; margin: 20px; width: 50px; height: 100px;
+}
+.box2 {
+    display: inline-grid; grid-template-rows: auto auto auto auto;
+    background-color: rgb(76, 0, 255); border: 20px; padding: 20px; margin: 20px; width: 50px; height: 100px;
+}
+.box3 {
+    display: inline-grid; 
+    background-color: rgb(0, 255, 42); border: 20px; padding: 20px; margin: 20px; width: 50px; height: 100px;
+}
+.box4{
+
+}
+.box5{
+
+}
